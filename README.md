@@ -32,4 +32,15 @@ This Flutter application allows users to input their bio data and educational de
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/PrakharGupta2001/flutter_task.git>
+
+2. Navigate to the project directory:
+   ```bash
+   cd your_flutter_app
+
+3. Install dependencies:
+   ```bash
+   flutter pub get
+4. Run the app:
+   ```bash
+   flutter run
